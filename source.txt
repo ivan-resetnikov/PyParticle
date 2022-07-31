@@ -1,0 +1,4 @@
+pyparticle.py :
+	PyParticle is library made by TheUnknownDeveloper
+	to implement particles in your pygame project
+	LINK: (https://github.com/ivan-resetnikov-a/PyParticle/)
